@@ -4,7 +4,7 @@
 003: UNK3
 004: UNK4
 005: UNK5
-006: UNK6
+006: ON_GENERATE           //runs on generation
 007: UNK7
 008: UNK8
 009: UNK9
@@ -20,14 +20,14 @@
 019: UNK19
 020: UNK20
 021: UNK21
-022: UNK22
+022: weapon_hit_handler 2 //uncommon use, iffy
 023: UNK23
 024: UNK24
 025: UNK25
 026: UNK26
 027: UNK27
 028: UNK28
-029: UNK29
+029: weapon_hit_handler 1 //main one, use this in 99% of cases
 030: UNK30
 031: UNK31
 032: UNK32
